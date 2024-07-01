@@ -1,3 +1,3 @@
-# TG Bot for the pizza shop
+# TG Bot
 
 Telegram bot with admin panel, web app, referral system
